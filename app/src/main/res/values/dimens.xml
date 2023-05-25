@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="square_size">50dp</dimen>
+    <dimen name="textview_padding">5dp</dimen>
+    <dimen name="textview_margin">3dp</dimen>
+    <dimen name="item_width">30dp</dimen>
+    <dimen name="text_size">12dp</dimen>
+</resources>
